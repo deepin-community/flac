@@ -2,3 +2,5 @@ Revert-man-Makefile-Fail-more-gracefully.patch
 privacy-breach-logo.patch
 0001-remove-build-path-from-generated-FLAC.tag-file.patch
 0020-libFLAC-bitreader.c-Fix-out-of-bounds-read.patch
+0021-CVE-2021-0561.patch
+0022-CVE-2020-22219.patch
